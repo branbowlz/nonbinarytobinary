@@ -1,4 +1,4 @@
-# nonbinarytobinary
+# Non Binary to Binary
 This program takes the words "one" and "zero" to their respective numbers and disregards any other numeric input <br />
 
 This is version one of a small project to test out my skills in C#. <br />
